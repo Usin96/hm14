@@ -43,3 +43,7 @@ html5 class
   - String 객체
   - Math 객체
   - 사용자 객체
+- wk13 upload
+  - 이미지 프리로딩 및 정보출력
+  - key 이벤트
+  - mouse 
